@@ -3,7 +3,7 @@
 > Comparative analysis of 6 U.S. commuter rail systems across 6 key performance indicators,
 > with spatial visualization in ArcGIS Online and a weighted composite scoring model.
 
-🗺️ **[View Interactive ArcGIS Map →](https://arcg.is/1jry0n5)** 
+🗺️ **[View Interactive ArcGIS Map →](https://www.arcgis.com/home/item.html?id=6901da7d85c944e9808472d2459a77e8)** 
 
 ---
 
