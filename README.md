@@ -106,5 +106,3 @@ rail-benchmarking/
 ```
 
 ---
-
-*Part of a two-project rail operations portfolio. See also: [Freight Network Reconstruction & Operations Model](#)*
